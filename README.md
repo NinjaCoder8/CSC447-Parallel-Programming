@@ -1,6 +1,6 @@
 # CSC447-Parallel-Programming
 
-Last Updated: Spring 2017
+Last Updated: Spring 2018
 
 This repository contains the work required from CSC447 students during the lab. 
 Solutions will be added on a weekly basis as well as some references and go-to websites.
